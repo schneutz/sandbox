@@ -1,3 +1,3 @@
 
-printf("AchtungAchtungAchtung");
+printf("Achtung!");
 printf("Hello World");
